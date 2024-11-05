@@ -1,0 +1,1 @@
+This is a small Quizz App made with Javascript, you juste have to click ton answer the questions.
